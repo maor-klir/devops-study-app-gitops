@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
         - name: frontend
-          image: frontend:latest
+          image: ghcr.io/maor-klir/study-app-web:latest
           ports:
             - containerPort: 22111
           env:
