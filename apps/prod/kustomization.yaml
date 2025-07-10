@@ -11,6 +11,6 @@ namePrefix: prod-
 
 images:
   - name: ghcr.io/maor-klir/study-app-api
-    newTag: backend-v0.3.0
+    newTag: backend-v0.2.0
   - name: ghcr.io/maor-klir/study-app-web
     newTag: frontend-v0.1.0
